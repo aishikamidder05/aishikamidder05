@@ -1,4 +1,4 @@
-## Hi there, I am Aishika 👋
+# Hi there, I am Aishika 👋
 
 <!--
 **aishikamidder05/aishikamidder05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## About Me:  :alien:
-I am a CS undergraduate at **National Institute of Technology, Durgapur**. 
+I am a CS undergraduate at **National Institute of Technology, Durgapur**. </br>
 Working as a Front-end Developer at **CCA**, a non-profit tech organisation of our institute.
 
 I love learning new technologies and contributing to open source. Recently enjoying problem solving as well.
