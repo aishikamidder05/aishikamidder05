@@ -1,5 +1,5 @@
 # Hi there, I am Aishika 👋
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif) <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+ <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="100" height="100" />
 <!--
 **aishikamidder05/aishikamidder05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
