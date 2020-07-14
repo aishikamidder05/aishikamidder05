@@ -1,4 +1,4 @@
-# Hi there, I am Aishika 👋  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="100" height="100" />
+# Hi there, I am Aishika 👋  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="70" height="70" />
 
 
 ## About Me:  :alien:
