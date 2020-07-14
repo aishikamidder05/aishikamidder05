@@ -1,5 +1,5 @@
 # Hi there, I am Aishika 👋
-
+![](http://i.imgur.com/OUkLi.gif)
 <!--
 **aishikamidder05/aishikamidder05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
