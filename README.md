@@ -2,7 +2,7 @@
 
 
 ## About Me:  :alien:
-I am a CS undergraduate at **National Institute of Technology, Durgapur**. </br>
+I am a CS undergraduate at **National Institute of Technology, Durgapur, India**. </br>
 Working as a Front-end Developer at **CCA**, a non-profit tech organisation of our institute.
 
 I love learning new technologies and contributing to open source. Recently enjoying problem solving as well.
