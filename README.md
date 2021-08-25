@@ -3,12 +3,11 @@
 
 ## About Me:  :alien:
 I am a CS undergraduate at **National Institute of Technology, Durgapur, India**. </br>
-Working as a Front-end Developer at **CCA**, a non-profit tech organisation of our institute.
+Working as a Developer at **CCA**, a non-profit tech organisation of our institute.
 
 I love learning new technologies and contributing to open source. Recently enjoying problem solving as well.
 
 I am currently working on something cool. :shipit:  </br>
-Currently learning AR and Django. 🌱
 
 ## How to reach me
 :pencil:  You can also find me writing at [Medium](https://medium.com/@aishikamidder) </br>
